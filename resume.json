@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Markus Moldaschl",
+    "label": "Software Entwickler",
+    "picture": "markus.jpeg",
+    "email": "moldaschl@nordhof.at",
+    "phone": "+436645060738",
+    "website": "www.nordhof.at",
+    "summary": "",
+    "location": {
+      "address": "Gruenau 30",
+      "postalCode": "3852",
+      "city": "Gastern",
+      "countryCode": "3852",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nordhof Service GmbH",
+      "position": "Mitgründer/Geschäftsführer",
+      "website": "www.nordhof.at",
+      "startDate": "01.2015",
+      "endDate": "aktuell",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Freelancer",
+      "position": "Lead Developer/Consultant",
+      "website": "www.m-moldaschl.net",
+      "startDate": "01.2011",
+      "endDate": "aktuell",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Celum GmbH",
+      "position": "Senior Software Developer",
+      "website": "www.celum.com",
+      "startDate": "01.2010",
+      "endDate": "12.2010",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "CSC Austria",
+      "position": "Application Developer",
+      "website": "www.csc.com",
+      "startDate": "08.2006",
+      "endDate": "12.2009",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "PXP Software AG",
+      "position": "Diplomand",
+      "website": "",
+      "startDate": "02.2006",
+      "endDate": "07.2006",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Comneon Linz(Praktikum)",
+      "position": "Software Entwickler",
+      "website": "",
+      "startDate": "09.2005",
+      "endDate": "01.2006",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Mobilkom Austria (Praktikum)",
+      "position": "IT- Developer",
+      "website": "",
+      "startDate": "08.2004",
+      "endDate": "09.2004",
+      "summary": "",
+      "highlights": []
+    },
+     {
+      "company": "Mobilkom Austria (Praktikum)",
+      "position": "IT- Developer",
+      "website": "",
+      "startDate": "08.2003",
+      "endDate": "09.2003",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Pixelpark Austria",
+      "position": "IT- Developer",
+      "website": "",
+      "startDate": "05.2000",
+      "endDate": "09.2002",
+      "summary": "",
+      "highlights": []
+    }
+   
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fachhochschule Hagenberg, Software Engineering",
+      "area": "",
+      "studyType": "",
+      "startDate": "10.2002",
+      "endDate": "07.2006",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Bundeshandelsakademie Waidhofen/Thaya",
+      "area": "",
+      "studyType": "",
+      "startDate": "09.1994",
+      "endDate": "06.1999",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Buch, Bessere Web-Clients ISBN:978-3-639-04726-4",
+      "publisher": "VDM Verlag",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sprachen",
+      "level": "",
+      "keywords": [
+        "Java", "SQL", "XML", "JSP", "C#", "PHP", "JavaScript", "HTML", "CSS"
+      ]
+    },
+    {
+      "name": "Technologien und Fremdsprachen",
+      "level": "",
+      "keywords": [
+      	"Spring Framework", "Spring Webflow", "JMS", "ActiveMQ", "Apache James", "JBoss Drools", "J2EE", "JUnit", "Hibernate", "OpenJPA", "jQuery"
+       
+      ]
+    },
+    {
+      "name": "Datenbanken",
+      "level": "",
+      "keywords": [
+      	"Oracle", "MySQL", "Sybase", "PostgreSQL", "MongoDB", "Elasticsearch"
+       
+      ]
+    },
+    {
+      "name": "Betriebssysteme",
+      "level": "",
+      "keywords": [
+      	"Microsoft Windows", "Max OS X", "Linux"
+       
+      ]
+    },
+    {
+      "name": "Methoden und Konzepte",
+      "level": "",
+      "keywords": [
+      	"Scrum", "UML", "OO Design", "Design Patterns", "Refactoring", "Test Driven Development"
+       
+      ]
+    },
+    {
+      "name": "Application Server",
+      "level": "",
+      "keywords": [
+      	"Apache Tomcat", "JBoss Application Server"
+       
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+      	"IntelliJ Idea", "Eclipse", "SVN", "git", "Maven", "Gradle"
+       
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+      	"Anlytisch und strukturiertes Denken", "Teamfähigkeit", "Belastbarkeit", "Bereitschaft zur Weiterbildung", "Networking", "Kreativität", "Offenheit", "Begeisterungsfähigkeit", "Konzeptionelle Fähigkeiten"
+       
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fließend in Wort und Schrift"
+    },
+     {
+      "language": "Französisch",
+      "fluency": "Grundkenntnisse"
+    }
+
+ 
+
+  ],
+  "interests": [
+  
+      
+    
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
